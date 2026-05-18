@@ -1,1 +1,17 @@
-﻿
+﻿replicaCount: 2
+
+image:
+  repository: thilina123/employee-management-system-backend
+  tag: 10
+  pullPolicy: Always
+
+imagePullSecrets:
+  - name: dockerhub-secret
+
+service:
+  type: NodePort
+  port: 80
+  targetPort: 8080
+  nodePort: 30091
+
+containerPort: 8080
