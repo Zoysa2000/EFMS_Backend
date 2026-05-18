@@ -1,0 +1,142 @@
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.exe
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\appsettings.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.staticwebassets.runtime.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.staticwebassets.endpoints.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.AssemblyReference.cache
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfoInputs.cache
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfo.cs
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.CoreCompileInputs.cache
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\scopedcss\bundle\EmployeeAdminPortal.styles.css
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\Employee.3BB47994.Up2Date
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\refint\EmployeeAdminPortal.dll
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.pdb
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.deps.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.runtimeconfig.json
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.pdb
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.genruntimeconfig.cache
+C:\Users\#DeZoysa\OneDrive - General Sir John Kotelawala Defence University\Desktop\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\ref\EmployeeAdminPortal.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\appsettings.Development.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\appsettings.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.staticwebassets.runtime.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.staticwebassets.endpoints.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.exe
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.deps.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.runtimeconfig.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.pdb
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.AssemblyReference.cache
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfoInputs.cache
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfo.cs
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.CoreCompileInputs.cache
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cs
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\scopedcss\bundle\EmployeeAdminPortal.styles.css
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeAdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeAdminPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeAdminPortal.props
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAdminPortal.props
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeAdminPortal.props
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\Employee.3BB47994.Up2Date
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\refint\EmployeeAdminPortal.dll
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.pdb
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.genruntimeconfig.cache
+E:\Sample WEB projects\Thilina\sampleproject\SampleProject\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\ref\EmployeeAdminPortal.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\refint\EmployeeAdminPortal.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.pdb
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\appsettings.Development.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\appsettings.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.staticwebassets.runtime.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.staticwebassets.endpoints.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.exe
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.deps.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.runtimeconfig.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\EmployeeAdminPortal.pdb
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.AssemblyReference.cache
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfoInputs.cache
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfo.cs
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.CoreCompileInputs.cache
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\scopedcss\bundle\EmployeeAdminPortal.styles.css
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\Employee.3BB47994.Up2Date
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.genruntimeconfig.cache
+D:\Mnagement System\.NET Web API\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\ref\EmployeeAdminPortal.dll

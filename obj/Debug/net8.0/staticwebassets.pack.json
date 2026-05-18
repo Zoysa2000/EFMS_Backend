@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\07f57e9b-b778-435c-86cc-28e225675a91.png",
+      "PackagePath": "staticwebassets\\uploads\\07f57e9b-b778-435c-86cc-28e225675a91.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\16ed8666-6a7c-4314-9fb5-0b615e3db21f.png",
+      "PackagePath": "staticwebassets\\uploads\\16ed8666-6a7c-4314-9fb5-0b615e3db21f.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\6b005793-8fd1-4915-bc94-621ac1e20454.png",
+      "PackagePath": "staticwebassets\\uploads\\6b005793-8fd1-4915-bc94-621ac1e20454.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\72d37eb3-2042-4f17-900e-6ed3f2d9b4ef.png",
+      "PackagePath": "staticwebassets\\uploads\\72d37eb3-2042-4f17-900e-6ed3f2d9b4ef.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\93abc24f-51ec-4ebb-ad3e-6e1d7d15c336.png",
+      "PackagePath": "staticwebassets\\uploads\\93abc24f-51ec-4ebb-ad3e-6e1d7d15c336.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\aa965252-bd35-4011-8699-2a4434024a1f.png",
+      "PackagePath": "staticwebassets\\uploads\\aa965252-bd35-4011-8699-2a4434024a1f.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\cafb288d-3e91-4e0e-aa25-5b477ef2d8b0.png",
+      "PackagePath": "staticwebassets\\uploads\\cafb288d-3e91-4e0e-aa25-5b477ef2d8b0.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\ccc6ee29-0f62-48d1-8a0e-7a46ddc6f594.png",
+      "PackagePath": "staticwebassets\\uploads\\ccc6ee29-0f62-48d1-8a0e-7a46ddc6f594.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\d89ac526-50ca-48e4-9f44-38ad2b9378a5.png",
+      "PackagePath": "staticwebassets\\uploads\\d89ac526-50ca-48e4-9f44-38ad2b9378a5.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\ea3d3ce3-55ff-4d74-aed0-8d5ca6de9d88.png",
+      "PackagePath": "staticwebassets\\uploads\\ea3d3ce3-55ff-4d74-aed0-8d5ca6de9d88.png"
+    },
+    {
+      "Id": "E:\\Sample WEB projects\\Thilina\\sampleproject\\SampleProject\\.NET Web API\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\uploads\\f8b9dd90-d28e-4f0a-94db-c66b4c77f87e.png",
+      "PackagePath": "staticwebassets\\uploads\\f8b9dd90-d28e-4f0a-94db-c66b4c77f87e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeAdminPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeAdminPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeAdminPortal.props",
+      "PackagePath": "build\\EmployeeAdminPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeAdminPortal.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeAdminPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeAdminPortal.props",
+      "PackagePath": "buildTransitive\\EmployeeAdminPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
