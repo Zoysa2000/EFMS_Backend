@@ -87,7 +87,7 @@ pipeline {
                         git config user.name "thilina-dev"
                         git config user.email "thilinadezoysa2000@gmail.com"
 
-                       sed -i "s|tag: .*|tag: \"$DOCKER_TAG\"|g" helm/ems-frontend/values.yaml
+                       sed -i "s|tag: .*|tag: \"$DOCKER_TAG\"|g" helm/ems-backend/values.yaml
 
                        git status
                        git add helm/ems-backend/values.yaml

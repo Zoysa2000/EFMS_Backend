@@ -1,5 +1,5 @@
 ﻿apiVersion: v2
-name: ems-frontend
+name: ems-backend
 description: Employee Management System Backend Helm Chart
 type: application
 version: 0.1.0
