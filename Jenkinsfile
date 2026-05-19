@@ -93,7 +93,7 @@ pipeline {
                        git add helm/ems-backend/values.yaml
                        git commit -m "Update frontend image to build $DOCKER_TAG" || echo "No changes to commit"
 
-                       git push https://$GIT_USERNAME:$GIT_PASSWORD@github.com/Zoysa2000/InternProject.git HEAD:main
+                       git push https://$GIT_USERNAME:$GIT_PASSWORD@github.com/Zoysa2000/EFMS_Backend.git HEAD:main
                     '''
                 }
             }
