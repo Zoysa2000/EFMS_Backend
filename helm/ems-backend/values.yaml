@@ -2,7 +2,7 @@
 
 image:
   repository: thilina123/employee-management-system-backend
-  tag: 20
+  tag: 21
   pullPolicy: Always
 
 imagePullSecrets:
