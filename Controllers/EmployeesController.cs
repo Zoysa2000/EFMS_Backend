@@ -132,10 +132,7 @@ namespace EmployeeAdminPortal.Controllers
             }
         }
 
-
-
-
-        [HttpDelete("deleteEmployee/{deptName}/{empId}")]
+       [HttpDelete("deleteEmployee/{deptName}/{empId}")]
         public IActionResult DeleteEmployee(
         [FromRoute] string deptName,
         [FromRoute] string empId)
